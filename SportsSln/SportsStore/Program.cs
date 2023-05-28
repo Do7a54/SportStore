@@ -79,3 +79,5 @@ SeedData.EnsurePopulated(app);    // Added after adding SeedData model page 155
 IdentitySeedData.EnsurePopulated(app);  // Seeding the Identity Database in the Program.cs -- Page 272
 
 app.Run();
+
+//Comment For GitHub Commit
